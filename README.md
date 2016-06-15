@@ -1,4 +1,9 @@
-# gatsby-starter-default
-The default Gatsby starter
+Running
+```
+npm start
+```
 
-Install this starter (assuming Gatsby is installed) by running from your CLI: gatsby new gatsby-example-site
+Building
+```
+npm run build
+```
