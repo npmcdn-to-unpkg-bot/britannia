@@ -1,27 +1,54 @@
 :root {
-  --color: pink;
+  /* --beige: #e9d5c1; */
+  --beige: #F9F6CB;
+  /* --red: #f2515e; */
+  --red: #E82121;
+  --blue: #123056;
 }
 
-.postcss-nav-example {
-  & ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-  }
-
-  & li { display: inline-block; }
-
-  & a {
-    background: var(--color);
-    border-radius: 3px;
-    display: block;
-    margin-right: 6px;
-    padding: 3px 9px;
-    text-decoration: none;
-  }
+.bg-beige {
+  background-color: var(--beige);
 }
 
-.the-postcss-class {
-  text-decoration: underline;
+.red {
+  color: var(--red);
 }
 
+.bg-red {
+  background-color: var(--red);
+}
+
+.blue {
+  color: var(--blue);
+}
+
+.bg-blue {
+  background-color: var(--blue);
+}
+/* :root { */
+/*   --color: pink; */
+/* } */
+/*  */
+/* .postcss-nav-example { */
+/*   & ul { */
+/*     margin: 0; */
+/*     padding: 0; */
+/*     list-style: none; */
+/*   } */
+/*  */
+/*   & li { display: inline-block; } */
+/*  */
+/*   & a { */
+/*     background: var(--color); */
+/*     border-radius: 3px; */
+/*     display: block; */
+/*     margin-right: 6px; */
+/*     padding: 3px 9px; */
+/*     text-decoration: none; */
+/*   } */
+/* } */
+/*  */
+/* .the-postcss-class { */
+/*   text-decoration: underline; */
+/* } */
+/*  */

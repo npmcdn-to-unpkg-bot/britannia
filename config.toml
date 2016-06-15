@@ -1,2 +1,81 @@
 siteTitle="Gatsby Starter Site"
 linkPrefix = "/gatsby-starter-default"
+
+[hero]
+title = "Title"
+subtitle = "Subtitle"
+
+[footer]
+title = "Footer"
+text = """
+There are few plans for what we do after leaving the EU. And this isn’t a party, this is a country. Making such drastic decisions without any idea of what or how we’ll do after is terrible, and will severely hurt us.
+
+Should we really make such a decision with no real idea of what will happen after? Should we make bets on uncertain? Especially considering the ability to rejoin would be a very hard thing to do. If we should leave, we should be 100% sure. Not using ‘gut feelings.’
+
+The current Leave EU movement is very akin to Trump’s rise to political power. It’s all based on promising a better life without any facts on how we’re going to get it. It’s using blatent lies to exploit people’s fear. It’s blaming other people for our problems. And while escapism is easy, it doesn’t actually solve the problems we have.
+"""
+
+[goodies]
+text = "Here are a few that strongly believe the UK should remain a member of the EU"
+people = [
+  { title = "Mark Carney", d = "Governor of the Bank of England" },
+  { title = "International Monetary Fund" },
+  { title = "Institute for Fiscal Studies" },
+  { title = "Confederation of British Industry" },
+  { title = "Leaders/heads of state of every single other member of the EU" },
+  { title = "Barack Obama", d = "President of the United States of America" },
+  { title = "Eight former US Treasury Secretaries" },
+  { title = "Xi Jinping", d = "President of China" },
+  { title = "Pranab Mukherjee", d = "Prime Minister of India" },
+  { title = "Justin Trudeau", d = "Prime Minister of Canada" },
+  { title = "Tony Abbott", d = "Prime Minister of Australia" },
+  { title = "Shinzō Abe", d = "Prime Minister of Japan" },
+  { title = "John Key", d = "Prime Minister of New Zealand" },
+  { title = "The chief executives of most of the top 100 companies in the UK including Marks and Spencer, BT, Asda, Vodafone, Virgin, IBM, BMW etc." },
+  { title = "Kofi Annan", d = "the former Secretary General of the United Nations" },
+  { title = "All living former Prime Ministers of the UK (from both parties)" },
+  { title = "Virtually all reputable and recognised economists" },
+  { title = "The Prime Minister of the UK" },
+  { title = "The leader of the Labour Party" },
+  { title = "The Leader of the Liberal Democrats" },
+  { title = "The Leader of the Green Party" },
+  { title = "The Leader of the Scottish National Party" },
+  { title = "The leader of Plaid Cymru" },
+  { title = "Martin Lewis", d = "that money saving dude off the telly" },
+  { title = "The Secretary General of the TUC" },
+  { title = "Oxford University" },
+  { title = "Cambridge University" },
+  { title = "Unison" },
+  { title = "National Union of Students" },
+  { title = "National Union of Farmers" },
+  { title = "Stephen Hawking" },
+  { title = "Chief Executive of the NHS" },
+  { title = "300 of the most prominent international historians" },
+  { title = "Director of Europol" },
+  { title = "David Anderson QC", d = "Independent Reviewer of Terrorism Legislation" },
+  { title = "Former Directors of GCHQ" },
+  { title = "Secretary General of Nato" },
+  { title = "Church of England" },
+  { title = "Church in Scotland" },
+  { title = "Church in Wales" },
+  { title = "Friends of the Earth" },
+  { title = "Greenpeace" },
+  { title = "Director General of the World Trade Organisation" },
+  { title = "WWF" },
+  { title = "World Bank" },
+  { title = "OECD " }
+]
+
+[baddies]
+text = "Here are pretty much the only notable people who think we should leave the EU"
+people = [
+  { title = "Boris Johnson", d = "who probably doesn’t really care either way, but knows he’ll become Prime Minister if the country votes to leave" },
+  { title = "Iain Duncan Smith", d = "A former Secretary of State for Work and Pensions who carried out a brutal regime of cuts to benefits and essential support for the poorest in society as well as the disabled and sick" },
+  { title = "Michael Gove", d = "That idiot that was Education Secretary and every single teacher in the country hated with a furious passion for the damage he was doing to the education system" },
+  { title = "Nigel Farage", d = "Leader of UKIP" },
+  { title = "BNP" },
+  { title = "Britain First" },
+  { title = "Donald Trump" },
+  { title = "Keith Chegwin" },
+  { title = "David Icke" }
+]
