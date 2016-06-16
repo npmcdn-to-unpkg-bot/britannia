@@ -8,11 +8,30 @@ subtitle = "Subtitle"
 [footer]
 title = "Footer"
 text = """
-There are few plans for what we do after leaving the EU. And this isn’t a party, this is a country. Making such drastic decisions without any idea of what or how we’ll do after is terrible, and will severely hurt us.
+Footer text
+"""
 
-Should we really make such a decision with no real idea of what will happen after? Should we make bets on uncertain? Especially considering the ability to rejoin would be a very hard thing to do. If we should leave, we should be 100% sure. Not using ‘gut feelings.’
+[letter]
+text = """
+Dear Mum, Dad, Grandma, and everyone else looking to vote leave,
 
-The current Leave EU movement is very akin to Trump’s rise to political power. It’s all based on promising a better life without any facts on how we’re going to get it. It’s using blatent lies to exploit people’s fear. It’s blaming other people for our problems. And while escapism is easy, it doesn’t actually solve the problems we have.
+We’re writing this letter to you to implore you not to.
+
+The choice to leave the EU will have severe consequences on myself and the people we love. From forcing us to leave the places we call home, to reducing what little assets we have even further, this is not going to help us. 
+
+We so often come to you for advice - you have more wisdom and experience than we do on so many matters, and you usually know what’s best for us, but on this occasion we’re begging you to please listen to us instead and vote with us to remain. We know you mean well - you think of the past and want to provide us with the best future - but voting Leave will result in anything but.
+
+There are so few plans in place if we leave. This isn’t like going to a party without planning how you’ll get home later, it’s a drastic decision that will impact our country and our people for decades, and making that choice with almost no idea of what we’ll do next is foolish, especially considering that rejoining is likely to be very hard. Should we really make bets on such an uncertainty? This is a situation for being 100% sure, not for relying on ‘gut feelings’.
+
+The current Leave EU movement brings to mind Trump’s rise to political power. It’s based on the promise of a better life with no facts on how we’re going to get it. It’s using blatant lies to exploit your fears. It’s blaming other people for our problems. There are plenty of legitimate issues that need addressing in the UK, but most of them have nothing to do with the EU, and scapegoating them is only going to add to our problems, not relieve them. 
+
+We understand that it can be hard to separate the truth from the lies, especially when our media is so willing to write biased propaganda and sell it as ‘news’, but we’ve put this site together to try and make that easier. 
+
+Maybe this will change your mind, maybe it won’t, but we hope that you’ll read it, and that you’ll bear these facts and our opinions in mind when you place your vote on Thursday.
+
+Thank you.
+
+Signed…
 """
 
 [goodies]
