@@ -30,8 +30,8 @@ module.exports = React.createClass({
           />
           <title>{title}</title>
           <link rel="shortcut icon" href={this.props.favicon} />
-          <link rel="stylesheet" href="https://npmcdn.com/tachyons@4.0.0-beta.31/css/tachyons.min.css" />
-          <link rel="stylesheet" href="https://npmcdn.com/tachyons-flex@1.1.1/tachyons-flex.min.css" />
+          <link rel="stylesheet" href="https://unpkg.com/tachyons@4.0.0-beta.31/css/tachyons.min.css" />
+          <link rel="stylesheet" href="https://unpkg.com/tachyons-flex@1.1.1/tachyons-flex.min.css" />
           {css}
           <script src="https://use.typekit.net/akb7dng.js"></script>
           <script dangerouslySetInnerHTML={{ __html: 'try{Typekit.load({ async: true });}catch(e){}' }} />
